@@ -31,7 +31,7 @@ $ make
 $ ./SQL
 ```
 
-4 - Insert hostname, database, username and password. Example
+4 - Enter the hostname, database, username and password, and click OK. Example:
 
 <p align="left">
   <img src="2.png">
