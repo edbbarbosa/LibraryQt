@@ -18,6 +18,7 @@ CREATE TABLE books (
     edition VARCHAR(50) NOT NULL,
     PRIMARY KEY (isbn)
 );
+``` 
 
 2 - Compile LibraryQt
 ```bash
@@ -28,7 +29,7 @@ $ make
 3 - Run LibraryQt
 ```
 $ ./SQL
-``
+```
 
 4 - Insert hostname, database, username and password. Example
 
