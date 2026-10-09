@@ -23,10 +23,12 @@ CREATE TABLE books (
 ```bash
 $ cmake .
 $ make
+```
 
 3 - Run LibraryQt
 ```
 $ ./SQL
+``
 
 4 - Insert hostname, database, username and password. Example
 
